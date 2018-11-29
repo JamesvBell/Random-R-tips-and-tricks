@@ -1,0 +1,9 @@
+From: https://hbsp.harvard.edu/signin/?return_to=%2Fpages%2Fhome
+
+To show line at 80 characters for styleguide in RStudio
+Tools -> Global Options -> Code -> Display
+there is a checkbox option
+
+[ ] Show margin
+    Margin column [80]
+If you check this, you should see a margin drawn in the editor at the desired column.
